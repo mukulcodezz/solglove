@@ -1,0 +1,12 @@
+{
+  "name": "SOLGLOVE — Solana Developer Portfolio",
+  "short_name": "SOLGLOVE",
+  "description": "Pixel-art portfolio of a Solana blockchain developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d1f",
+  "theme_color": "#090d1f",
+  "icons": [
+    { "src": "/avatar.png", "sizes": "400x400", "type": "image/png" }
+  ]
+}

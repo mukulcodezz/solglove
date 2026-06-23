@@ -1,0 +1,9 @@
+node_modules
+dist
+shots
+*.local
+.vercel
+.DS_Store
+.env
+.env.*
+npm-debug.log*
